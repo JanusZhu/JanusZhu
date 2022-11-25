@@ -27,7 +27,7 @@ class Janus:
                  'web3': 'learning'}
     favorites = ['Dancing', 'Work-out', 'Cooking']
 
-cam_nguyen = Cambuchi()
+Janus_Zhu = Janus()
 
 # TODO: Get a post-graduate job in software engineering.
  ```   
