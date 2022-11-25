@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+class Janus:
+    def __init__(self, h = 'human', m = 'male'):
+        self.species = h
+        self.display = m
+    position = 'USA'
+    height = cm(178)
+    color = (229, 155, 125)
+    languages = {'python': 'learning',
+                 'webdev': 'learning',
+                 'web3': 'learning'}
+    favorites = ['Dancing', 'Work-out', 'Cooking']
+
+cam_nguyen = Cambuchi()
+
+# TODO: Get a post-graduate job in software engineering.
+    
