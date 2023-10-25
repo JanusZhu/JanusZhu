@@ -29,5 +29,5 @@ class Janus:
 
 Janus_Zhu = Janus()
 
-# TODO: Get a post-graduate job in software engineering.
+# TODO: Launch a startup.
  ```   
